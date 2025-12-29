@@ -20,8 +20,10 @@ const ParticlePortrait = () => {
         setSize(400);
       }
     };
+    
     requestAnimationFrame(updateSize);
     setTimeout(() => window.dispatchEvent(new Event("resize")), 300);
+
 
     updateSize();
     window.addEventListener("resize", updateSize);
