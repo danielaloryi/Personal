@@ -19,14 +19,12 @@ class About extends React.Component {
   render() {
     const one = (
       <p>
-        I am currently the <b>Founder and CEO</b> of
+        I am the <b>Founder and CEO</b> of
         <a href="https://www.parallelafrica.com/"> Parallel</a>, where I lead the development
         of Africa's software infrastructure across various industries. Previously, I was at
         <a href="https://www.pwc.com/"> PwC</a> and{" "}
-        <a href="https://www.deloitte.com/"> Deloitte.</a> At the
-        same time, I am undertaking a part-time <b> Master's of Science</b> in{" "}
-        <b>Computer Science, Machine Learning</b>at{" "}
-        <a href="https://www.ox.ac.uk/about">The Georgia Institute of Technology, Georgia Tech</a>.
+        <a href="https://www.deloitte.com/"> Deloitte.</a> I am a certified <b>Project Management Professional (PMP), 
+          AWS Certified Machine Learning Engineer - Specialty and Microsoft Certified Azure AI Engineer.</b>
       </p>
     );
     const two = (
