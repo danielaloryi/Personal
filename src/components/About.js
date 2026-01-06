@@ -21,9 +21,9 @@ class About extends React.Component {
       <p>
         I am the <b>Founder and CEO</b> of
         <a href="https://www.parallelafrica.com/"> Parallel</a>, where I lead the development
-        of Africa's software infrastructure across various industries. Previously, I was at
+        of Africa's software infrastructure across various industries. I was previously at
         <a href="https://www.pwc.com/"> PwC</a> and{" "}
-        <a href="https://www.deloitte.com/"> Deloitte.</a> I am a certified <b>Project Management Professional (PMP), 
+        <a href="https://www.deloitte.com/"> Deloitte as an AI/ML Consultant and Data Scientist respectively</a> I am a certified <b>Project Management Professional (PMP), 
           AWS Certified Machine Learning Engineer - Specialty and Microsoft Certified Azure AI Engineer.</b>
       </p>
     );
